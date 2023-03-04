@@ -1,0 +1,7 @@
+{
+    "categories": [
+      { "id": 1, "title": "frontend", "description": "this is front category" },
+      { "id": 2, "title": "backend", "description": "this is backend category" }
+    ]
+    
+  }
